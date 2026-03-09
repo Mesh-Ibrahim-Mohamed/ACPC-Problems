@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ACPC #C. Area of a Circle/ACPC #C. Area of a Circle.vcxproj" />
+</Solution>

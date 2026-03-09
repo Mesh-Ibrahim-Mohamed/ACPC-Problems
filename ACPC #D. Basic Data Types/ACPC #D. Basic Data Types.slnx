@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ACPC #D. Basic Data Types/ACPC #D. Basic Data Types.vcxproj" />
+</Solution>

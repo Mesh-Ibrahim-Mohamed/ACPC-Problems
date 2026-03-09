@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\ACPC #D. Basic Data Types\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80DFC992-FE60-474C-8D08-0F4E641E8CF5}|ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types.vcxproj|C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80DFC992-FE60-474C-8D08-0F4E641E8CF5}|ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types.vcxproj|solutionrelative:ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ACPC #D. Basic Data Types.cpp",
+              "DocumentMoniker": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types.cpp",
+              "RelativeDocumentMoniker": "ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types.cpp",
+              "ToolTip": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types.cpp*",
+              "RelativeToolTip": "ACPC #D. Basic Data Types\\ACPC #D. Basic Data Types.cpp*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-09T21:03:20.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
