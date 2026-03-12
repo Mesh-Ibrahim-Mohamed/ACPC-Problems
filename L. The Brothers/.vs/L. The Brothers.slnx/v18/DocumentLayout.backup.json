@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\L. The Brothers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0203064C-EFFC-4D44-A2B9-08D26155D856}|L. The Brothers\\L. The Brothers.vcxproj|C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\L. The Brothers\\L. The Brothers\\L. The Brothers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0203064C-EFFC-4D44-A2B9-08D26155D856}|L. The Brothers\\L. The Brothers.vcxproj|solutionrelative:L. The Brothers\\L. The Brothers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "L. The Brothers.cpp",
+              "DocumentMoniker": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\L. The Brothers\\L. The Brothers\\L. The Brothers.cpp",
+              "RelativeDocumentMoniker": "L. The Brothers\\L. The Brothers.cpp",
+              "ToolTip": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\L. The Brothers\\L. The Brothers\\L. The Brothers.cpp*",
+              "RelativeToolTip": "L. The Brothers\\L. The Brothers.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-12T01:38:06.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

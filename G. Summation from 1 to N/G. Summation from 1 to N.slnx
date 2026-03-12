@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="G. Summation from 1 to N/G. Summation from 1 to N.vcxproj" />
+</Solution>

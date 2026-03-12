@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="I. Welcome for you with Conditions/I. Welcome for you with Conditions.vcxproj" />
+</Solution>

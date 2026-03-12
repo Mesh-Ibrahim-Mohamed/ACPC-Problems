@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\I. Welcome for you with Conditions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5888C9-79BE-4613-AD18-ADCF882E3A2D}|I. Welcome for you with Conditions\\I. Welcome for you with Conditions.vcxproj|C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\I. Welcome for you with Conditions\\I. Welcome for you with Conditions\\I. Welcome for you with Conditions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A5888C9-79BE-4613-AD18-ADCF882E3A2D}|I. Welcome for you with Conditions\\I. Welcome for you with Conditions.vcxproj|solutionrelative:I. Welcome for you with Conditions\\I. Welcome for you with Conditions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "I. Welcome for you with Conditions.cpp",
+              "DocumentMoniker": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\I. Welcome for you with Conditions\\I. Welcome for you with Conditions\\I. Welcome for you with Conditions.cpp",
+              "RelativeDocumentMoniker": "I. Welcome for you with Conditions\\I. Welcome for you with Conditions.cpp",
+              "ToolTip": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\I. Welcome for you with Conditions\\I. Welcome for you with Conditions\\I. Welcome for you with Conditions.cpp",
+              "RelativeToolTip": "I. Welcome for you with Conditions\\I. Welcome for you with Conditions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T20:41:47.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

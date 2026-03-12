@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\#ACPC #D. Difference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AA288-4B85-4C2E-A89D-8951922F4FB4}|#ACPC #D. Difference\\#ACPC #D. Difference.vcxproj|C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\#ACPC #D. Difference\\#ACPC #D. Difference\\#ACPC #D. Difference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A33AA288-4B85-4C2E-A89D-8951922F4FB4}|#ACPC #D. Difference\\#ACPC #D. Difference.vcxproj|solutionrelative:#ACPC #D. Difference\\#ACPC #D. Difference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#ACPC #D. Difference.cpp",
+              "DocumentMoniker": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\#ACPC #D. Difference\\#ACPC #D. Difference\\#ACPC #D. Difference.cpp",
+              "RelativeDocumentMoniker": "#ACPC #D. Difference\\#ACPC #D. Difference.cpp",
+              "ToolTip": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\#ACPC #D. Difference\\#ACPC #D. Difference\\#ACPC #D. Difference.cpp*",
+              "RelativeToolTip": "#ACPC #D. Difference\\#ACPC #D. Difference.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T19:19:52.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

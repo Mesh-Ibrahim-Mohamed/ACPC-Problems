@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\G. Summation from 1 to N\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F73A6-9688-44BF-B379-116893C7E927}|G. Summation from 1 to N\\G. Summation from 1 to N.vcxproj|C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\G. Summation from 1 to N\\G. Summation from 1 to N\\G. Summation from 1 to N.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E7F73A6-9688-44BF-B379-116893C7E927}|G. Summation from 1 to N\\G. Summation from 1 to N.vcxproj|solutionrelative:G. Summation from 1 to N\\G. Summation from 1 to N.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "G. Summation from 1 to N.cpp",
+              "DocumentMoniker": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\G. Summation from 1 to N\\G. Summation from 1 to N\\G. Summation from 1 to N.cpp",
+              "RelativeDocumentMoniker": "G. Summation from 1 to N\\G. Summation from 1 to N.cpp",
+              "ToolTip": "C:\\Users\\ib200\\OneDrive\\Desktop\\#ACPC\\G. Summation from 1 to N\\G. Summation from 1 to N\\G. Summation from 1 to N.cpp",
+              "RelativeToolTip": "G. Summation from 1 to N\\G. Summation from 1 to N.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T20:00:39.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
