@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C. Even, Odd, Positive and Negative/C. Even, Odd, Positive and Negative.vcxproj" />
+</Solution>
