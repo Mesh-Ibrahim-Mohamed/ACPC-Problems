@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\ACPC-Problems\\A. Square\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E45289-61F3-4767-BC5C-D7B7204B2E71}|A. Square\\A. Square.vcxproj|C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\ACPC-Problems\\A. Square\\A. Square\\A. Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21E45289-61F3-4767-BC5C-D7B7204B2E71}|A. Square\\A. Square.vcxproj|solutionrelative:A. Square\\A. Square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A. Square.cpp",
+              "DocumentMoniker": "C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\ACPC-Problems\\A. Square\\A. Square\\A. Square.cpp",
+              "RelativeDocumentMoniker": "A. Square\\A. Square.cpp",
+              "ToolTip": "C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\ACPC-Problems\\A. Square\\A. Square\\A. Square.cpp",
+              "RelativeToolTip": "A. Square\\A. Square.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-22T08:36:13.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

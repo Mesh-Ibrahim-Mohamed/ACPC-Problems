@@ -1,0 +1,4 @@
+﻿  #4 Problem.cpp
+C:\Users\ib200\OneDrive\المستندات\GitHub\ACPC-Problems\#4 Problem\#4 Problem\#4 Problem.cpp(7,23): warning C4101: 'Number2': unreferenced local variable
+C:\Users\ib200\OneDrive\المستندات\GitHub\ACPC-Problems\#4 Problem\#4 Problem\#4 Problem.cpp(7,15): warning C4101: 'Number': unreferenced local variable
+  #4 Problem.vcxproj -> C:\Users\ib200\OneDrive\المستندات\GitHub\ACPC-Problems\#4 Problem\x64\Debug\#4 Problem.exe
