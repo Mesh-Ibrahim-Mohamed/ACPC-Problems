@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="D. Ali Baba and Puzzles/D. Ali Baba and Puzzles.vcxproj" />
+</Solution>

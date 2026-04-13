@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\ACPC-Problems\\E. Problem 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE9F0DE-EED3-4B0F-9197-1E1FE303F957}|E. Problem 5\\E. Problem 5.vcxproj|C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\ACPC-Problems\\E. Problem 5\\E. Problem 5\\E. Problem 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FE9F0DE-EED3-4B0F-9197-1E1FE303F957}|E. Problem 5\\E. Problem 5.vcxproj|solutionrelative:E. Problem 5\\E. Problem 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E. Problem 5.cpp",
+              "DocumentMoniker": "C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\ACPC-Problems\\E. Problem 5\\E. Problem 5\\E. Problem 5.cpp",
+              "RelativeDocumentMoniker": "E. Problem 5\\E. Problem 5.cpp",
+              "ToolTip": "C:\\Users\\ib200\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\ACPC-Problems\\E. Problem 5\\E. Problem 5\\E. Problem 5.cpp",
+              "RelativeToolTip": "E. Problem 5\\E. Problem 5.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-12T23:19:09.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

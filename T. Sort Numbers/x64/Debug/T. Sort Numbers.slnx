@@ -1,0 +1,20 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="T. Sort Numbers.exe">
+    <Properties Name="DebuggerProjectSystem">
+      <Property Name="AttachLaunchAction" Value="No" />
+      <Property Name="Environment" Value="Default" />
+      <Property Name="Executable" Value="C:\Users\ib200\OneDrive\المستندات\GitHub\ACPC-Problems\T. Sort Numbers\x64\Debug\T. Sort Numbers.exe" />
+      <Property Name="IORedirection" Value="Auto" />
+      <Property Name="LaunchingEngine" Value="00000000-0000-0000-0000-000000000000" />
+      <Property Name="LaunchSQLEngine" Value="No" />
+      <Property Name="PortSupplier" Value="00000000-0000-0000-0000-000000000000" />
+      <Property Name="RemoteMachine" Value="IBRAHIM" />
+      <Property Name="StartingDirectory" Value="C:\Users\ib200\OneDrive\المستندات\GitHub\ACPC-Problems\T. Sort Numbers\x64\Debug" />
+      <Property Name="UseLegacyDebugEngines" Value="No" />
+    </Properties>
+  </Project>
+</Solution>
