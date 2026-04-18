@@ -1,8 +1,15 @@
 ﻿#include <iostream>
 
-#include <string>
+
 
 using namespace std;
+
+int max(int a , int b) {
+    if (a > b) return a ;
+    else if (b > a ) return b;
+}
+
+
 
 int getMax(int a[], int n) {
     int res = a[0];
