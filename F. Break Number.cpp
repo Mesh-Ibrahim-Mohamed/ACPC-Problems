@@ -17,7 +17,7 @@ int main() {
     for (int i = 0; i < T;i++) {
         Counter = 0;
         while (N[i] % 2 == 0 ) {
-            Counter++; N[i] = N[i] / 2;
+                Counter++; N[i] = N[i] / 2;
         }
         if (Counter > Counter2) Counter2 = Counter;
     }
