@@ -1,0 +1,59 @@
+//
+// Created by eba on 9/4/26.
+//
+#include <bits/stdc++.h>
+using namespace std;
+
+
+void fileIO() {
+#ifndef ONLINE_JUDGE
+    freopen("Input.txt", "r", stdin);
+    freopen("Output.txt", "w", stdout);
+    freopen("Error.txt","w",stderr);
+#endif
+}
+void fastIO() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+}
+
+int Freq[100005] = {};
+
+void solve(){
+
+  int N,M;cin >> N >> M;
+    int A[N][M];
+
+    for (int i = 0 ; i < N; i++) {
+        for (int j = 0; j < M; j++) {
+            cin >> A[i][j];
+        }
+    }
+
+    for (int i = 0 ; i < N; i++) {
+
+
+            reverse(A[i], A[i] + M);
+
+
+    }
+
+    for (int i = 0 ; i < N; i++) {
+        for (int j = 0; j < M; j++) {
+
+            cout << A[i][j] << " ";
+
+        }
+        cout << endl;
+    }
+
+
+
+}
+signed main() {
+    fastIO();
+
+    solve();
+    return 0;
+}
